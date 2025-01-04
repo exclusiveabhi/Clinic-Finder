@@ -1,6 +1,6 @@
 # :hospital: **Clinic Finder (MERN Stack)**
 
-**Clinic Finder** is a powerful web application built using the **MERN stack (MongoDB, Express, React, Node.js)** to help users find detailed clinic information across the United States. With a modern and responsive UI built using **Tailwind CSS**, this app allows users to easily browse and discover clinics' contact details, addresses, emails, and phone numbers.
+**Clinic Finder** is a powerful web application built using the MERN stack (MongoDB, Express, React, Node.js) to help users find detailed clinic information across the **United States**. With a modern and responsive UI built using Tailwind CSS, this app allows users to easily browse and discover clinics' contact details, addresses, emails, and phone numbers.
 
 The app supports **pagination** for smooth navigation and a **rate-limiting feature** that limits requests to **10 per session**, ensuring efficient and optimal performance. Users can click the **Load More** button to retrieve additional results.
 
@@ -59,7 +59,8 @@ Ensure the following are installed on your system:
 
 1. Navigate to the frontend directory:
    ```bash
-   cd clinic-finder/frontend
+   cd Clinic-Finder
+   cd frontend
    ```
 
 2. Install dependencies:
