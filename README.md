@@ -4,6 +4,10 @@
 
 The app supports **pagination** for smooth navigation and a **rate-limiting feature** that limits requests to **10 per session**, ensuring efficient and optimal performance. Users can click the **Load More** button to retrieve additional results.
 
+
+## Live [Click Here](https://clinic-finder-lovat.vercel.app/)
+
+
 ## :star: **Key Features**
 
 - :bust_in_silhouette: **User-Friendly Interface**: Built with **Tailwind CSS** for a modern and responsive design.
