@@ -8,12 +8,13 @@ const App = () => {
   const [page, setPage] = useState(1);
 
 
-  // Fetch clinic data with pagination
+  // Replace https://clinic-finder-cwjj.onrender.com with http://localhost:5000 if you are running the backend locally
+  
   const fetchClinics = async () => {
     try {
       setLoading(true);
       const response = await axios.get(
-        `http://localhost:5000/api/clinics?page=${page}&limit=10`
+        `https://clinic-finder-cwjj.onrender.com/api/clinics?page=${page}&limit=10`
       );
       setClinics((prevClinics) => [...prevClinics, ...response.data]);
       setLoading(false);

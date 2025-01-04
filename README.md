@@ -15,6 +15,8 @@ The app supports **pagination** for smooth navigation and a **rate-limiting feat
 
 ---
 
+## Note:- **Replace https://clinic-finder-cwjj.onrender.com with http://localhost:5000 if you are running the backend locally**
+
 ## :rocket: **Technologies Used**
 
 - **Frontend**: :computer: React, :sparkles: Tailwind CSS
