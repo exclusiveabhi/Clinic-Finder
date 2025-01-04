@@ -7,6 +7,7 @@ const App = () => {
   const [error, setError] = useState("");
   const [page, setPage] = useState(1);
 
+//Attention:
 
   // Replace https://clinic-finder-cwjj.onrender.com with http://localhost:5000 if you are running the backend locally
   
