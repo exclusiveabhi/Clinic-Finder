@@ -36,7 +36,7 @@ The app supports **pagination** for smooth navigation and a **rate-limiting feat
 
 Ensure the following are installed on your system:
 
-- [Node.js](https://nodejs.org/) (v14 or higher)
+- [Node.js](https://nodejs.org/) (v14++)
 
 ### Backend Setup
 
