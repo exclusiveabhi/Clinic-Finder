@@ -1,7 +1,3 @@
-Here’s an enhanced version of your README with better icons, SEO-optimized text, and clearer organization:
-
----
-
 # :hospital: **Clinic Finder (MERN Stack)**
 
 **Clinic Finder** is a powerful web application built using the **MERN stack (MongoDB, Express, React, Node.js)** to help users find detailed clinic information across the United States. With a modern and responsive UI built using **Tailwind CSS**, this app allows users to easily browse and discover clinics' contact details, addresses, emails, and phone numbers.
