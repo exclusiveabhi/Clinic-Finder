@@ -59,7 +59,7 @@ Ensure the following are installed on your system:
 
 1. Navigate to the frontend directory:
    ```bash
-   cd Clinic-Finder
+   cd..
    cd frontend
    ```
 
