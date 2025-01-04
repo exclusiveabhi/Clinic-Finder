@@ -18,10 +18,9 @@ The app supports **pagination** for smooth navigation and a **rate-limiting feat
 ## :rocket: **Technologies Used**
 
 - **Frontend**: :computer: React, :sparkles: Tailwind CSS
-- **Backend**: :package: Node.js, :coffee: Express, :mongodb: MongoDB
+- **Backend**: :package: Node.js, :coffee: Express.
 - **Rate Limiting**: Custom middleware to ensure the rate limit of 10 requests per session.
 - **Pagination**: Smooth navigation with a clear, user-friendly "Load More" functionality.
-- **Hosting**: Deployed on [Hosting Provider] (link to your deployment, if applicable).
 
 ---
 
@@ -32,18 +31,18 @@ The app supports **pagination** for smooth navigation and a **rate-limiting feat
 Ensure the following are installed on your system:
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
-- [MongoDB](https://www.mongodb.com/) (Use local MongoDB or MongoDB Atlas for cloud-based database)
 
 ### Backend Setup
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/clinic-finder.git
+   git clone https://github.com/exclusiveabhi/Clinic-Finder.git
    ```
 
 2. Navigate to the backend directory:
    ```bash
-   cd clinic-finder/backend
+   cd Clinic-Finder
+   cd backend
    ```
 
 3. Install dependencies:
@@ -51,15 +50,9 @@ Ensure the following are installed on your system:
    npm install
    ```
 
-4. Set up your environment variables in a `.env` file:
-   ```env
-   MONGO_URI=your_mongodb_connection_string
-   PORT=5000
-   ```
-
-5. Start the backend server:
+4. Start the backend server:
    ```bash
-   npm start
+   node index.js
    ```
 
 ### Frontend Setup
